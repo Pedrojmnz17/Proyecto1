@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cofradias>
+    <cofradia>
+        <ciudad>Sevilla</ciudad>
+        <fundacion>1700</fundacion>
+        <nombre>Cofradía del Santo Entierro</nombre>
+        <numeroHermanos>250</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <ciudad>Córdoba</ciudad>
+        <fundacion>1850</fundacion>
+        <nombre>Cofradía de la Esperanza</nombre>
+        <numeroHermanos>300</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <ciudad>Sevilla</ciudad>
+        <fundacion>1595</fundacion>
+        <nombre>Cofradía de la Macarena</nombre>
+        <numeroHermanos>500</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <ciudad>Granada</ciudad>
+        <fundacion>1800</fundacion>
+        <nombre>Cofradía de los Gitanos</nombre>
+        <numeroHermanos>450</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <ciudad>Málaga</ciudad>
+        <fundacion>1650</fundacion>
+        <nombre>Cofradía del Silencio</nombre>
+        <numeroHermanos>320</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <ciudad>Valladolid</ciudad>
+        <fundacion>1725</fundacion>
+        <nombre>Cofradía de Jesús Nazareno</nombre>
+        <numeroHermanos>400</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <ciudad>Burgos</ciudad>
+        <fundacion>1600</fundacion>
+        <nombre>Cofradía de la Soledad</nombre>
+        <numeroHermanos>350</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <ciudad>Sevilla</ciudad>
+        <fundacion>1942</fundacion>
+        <nombre>Cofradía de San Gonzalo</nombre>
+        <numeroHermanos>800</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <ciudad>Murcia</ciudad>
+        <fundacion>1805</fundacion>
+        <nombre>Cofradía del Cristo del Perdón</nombre>
+        <numeroHermanos>220</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <ciudad>Zaragoza</ciudad>
+        <fundacion>1780</fundacion>
+        <nombre>Cofradía de la Pasión</nombre>
+        <numeroHermanos>280</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <ciudad>Toledo</ciudad>
+        <fundacion>1900</fundacion>
+        <nombre>Cofradía de la Virgen de la Piedad</nombre>
+        <numeroHermanos>150</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <ciudad>Sevilla</ciudad>
+        <fundacion>1605</fundacion>
+        <nombre>Cofradía del Gran Poder</nombre>
+        <numeroHermanos>1000</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <ciudad>Cádiz</ciudad>
+        <fundacion>1750</fundacion>
+        <nombre>Cofradía de la Caridad</nombre>
+        <numeroHermanos>270</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <ciudad>Albacete</ciudad>
+        <fundacion>1680</fundacion>
+        <nombre>Cofradía del Cristo de la Sangre</nombre>
+        <numeroHermanos>330</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <ciudad>Salamanca</ciudad>
+        <fundacion>1550</fundacion>
+        <nombre>Cofradía del Cristo Yacente</nombre>
+        <numeroHermanos>200</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <ciudad>Madrid</ciudad>
+        <fundacion>1950</fundacion>
+        <nombre>Cofradía de Nuestra Señora de los Dolores</nombre>
+        <numeroHermanos>500</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <ciudad>Jaén</ciudad>
+        <fundacion>1980</fundacion>
+        <nombre>Cofradía de la Santa Cena</nombre>
+        <numeroHermanos>350</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <ciudad>Huelva</ciudad>
+        <fundacion>1920</fundacion>
+        <nombre>Cofradía de la Oración en el Huerto</nombre>
+        <numeroHermanos>270</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <ciudad>Alicante</ciudad>
+        <fundacion>1580</fundacion>
+        <nombre>Cofradía de la Santa Faz</nombre>
+        <numeroHermanos>600</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <ciudad>Barcelona</ciudad>
+        <fundacion>2000</fundacion>
+        <nombre>Cofradía del Resucitado</nombre>
+        <numeroHermanos>450</numeroHermanos>
+    </cofradia>
+</cofradias>
